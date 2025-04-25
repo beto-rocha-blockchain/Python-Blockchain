@@ -23,5 +23,3 @@ Este projeto é uma implementação didática de uma blockchain simples usando P
    git clone https://github.com/beto-rocha-blockchain/Python-Blockchain.git
    cd Python-Blockchain
 GitHub - beto-rocha-blockchain/Python-Blockchain
-Contribute to beto-rocha-blockchain/Python-Blockchain development by creating an account on GitHub.
- 
