@@ -1,4 +1,4 @@
-# Python-Blockchain
+# python-blockchain
  
 Este projeto é uma implementação didática de uma blockchain simples usando Python. Ele tem como objetivo demonstrar os fundamentos do funcionamento de uma cadeia de blocos, servindo como base para estudantes e desenvolvedores que desejam compreender os conceitos por trás das criptomoedas e tecnologias descentralizadas.
  
